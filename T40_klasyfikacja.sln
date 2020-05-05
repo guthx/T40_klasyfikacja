@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T40_klasyfikacja", "T40_klasyfikacja.csproj", "{38B4B73F-C9AE-4AE4-8E94-9AB129928106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Debug|x64.ActiveCfg = Debug|x64
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Debug|x64.Build.0 = Debug|x64
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Release|x64.ActiveCfg = Release|x64
+		{38B4B73F-C9AE-4AE4-8E94-9AB129928106}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7D4E20-66CA-4E87-9D54-A39846DB06B7}
+	EndGlobalSection
+EndGlobal
