@@ -59,10 +59,10 @@ namespace T40_klasyfikacja.Classifiers
             Parameters = new SVMParameter();
             Parameters.Type = SVMType.C_SVC;
             Parameters.Kernel = SVMKernelType.RBF;
-            Parameters.C = 10;
+            Parameters.C = 1000000;
             Parameters.Degree = 3;
             Parameters.Coef0 = 0;
-            Parameters.Gamma = 1.0 / (double)Data.FeatureCount;
+            Parameters.Gamma = 0.001;
 
         }
 
